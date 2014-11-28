@@ -1,4 +1,6 @@
-To create and train the spiking neural network, simply type in
+This spiking neural network was written in Matlab. The network sorts whether audio clips of zebra finch songs are of an adult or a juvenile bird.
+
+To create and train the spiking neural network, open Matlab and simply type in
 
 >> SpikingNN(number_of_epochs);
 
